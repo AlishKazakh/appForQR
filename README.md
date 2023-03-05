@@ -1,0 +1,2 @@
+# appForQR
+for Mirat
