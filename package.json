@@ -1,0 +1,22 @@
+{
+  "name": "appforqr",
+  "version": "1.0.0",
+  "description": "for Mirat",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlishKazakh/appForQR.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlishKazakh/appForQR/issues"
+  },
+  "homepage": "https://github.com/AlishKazakh/appForQR#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
