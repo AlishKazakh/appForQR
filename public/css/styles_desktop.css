@@ -1,0 +1,85 @@
+body{
+    text-align: center;
+    font-size: 1.25rem;
+    margin: 1%;
+    background: linear-gradient(256.82deg,rgba(1,113,187,.94) 0%,rgba(190,38,76,.94) 94.42%);
+}
+h1{
+    font-weight: bold;
+    color: white;
+}
+
+.main-div{
+    border-style: groove; 
+    border-radius: 5%; 
+    width: 45%; 
+    left: 22%; 
+    padding: 1%; 
+    background-color: white; 
+    display: inline-block; 
+}
+
+.stars-div{
+    margin: 3% 0;
+}
+
+.stars{
+    width: 2%;
+    height: 2%;
+}
+
+.stars-none{
+    width: 2%;
+    height: 2%;
+}
+
+.section-2-div{
+    display: inline-block; 
+    margin: 1% 1% 2% 1%;
+}
+
+.section-2-head{
+    text-align: left; 
+    font-weight: bold;
+}
+
+.section-2-detail{
+    margin-top: 2%; 
+    text-align: left;
+}
+
+.section-3-div-left{
+    display: inline-block; 
+    width: 35%; 
+    margin: 5% 10% 2% 2%; 
+    left: 2%;
+}
+
+.section-3-info-bold-left{
+    font-weight: bold; 
+    text-align: left; 
+    margin-top: 4%;
+}
+
+.section-3-info-left{
+    text-align: left; 
+    margin-top: 4%;
+}
+
+.section-3-div-right{
+    display: inline-block; 
+    width: 35%; 
+    margin: 5% 2% 2% 10%; 
+    right: 2%;
+}
+
+.section-3-info-bold-right{
+    font-weight: bold; 
+    text-align: right; 
+    margin-top: 4%;
+}
+
+.section-3-info-right{
+    text-align: right; 
+    margin-top: 4%;
+}
