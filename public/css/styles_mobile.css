@@ -5,6 +5,7 @@ body{
     background: linear-gradient(256.82deg,rgba(1,113,187,.94) 0%,rgba(190,38,76,.94) 94.42%);
     background-repeat: no-repeat;
     background-position: center;
+    background-attachment: fixed;
     height: 100%;
 }
 h1{
